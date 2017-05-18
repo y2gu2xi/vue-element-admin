@@ -11,6 +11,7 @@
     "build:sit": "NODE_ENV=sit node build/build.js",
     "build:sit-preview": "NODE_ENV=sit npm_config_preview=true  npm_config_report=true node build/build.js",
     "lint": "eslint --ext .js,.vue src",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "release": "standard-version"
   },
   "dependencies": {
