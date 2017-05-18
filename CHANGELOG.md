@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.0-alpha.0"></a>
+# [1.2.0-alpha.0](https://github.com/y2gu2xi/vue-element-admin/compare/v1.2.0-test.2...v1.2.0-alpha.0) (2017-05-18)
+
+
+
 <a name="1.2.0-test.2"></a>
 # [1.2.0-test.2](https://github.com/y2gu2xi/vue-element-admin/compare/v1.2.0-test.1...v1.2.0-test.2) (2017-05-18)
 
