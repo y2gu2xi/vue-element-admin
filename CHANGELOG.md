@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.3.0"></a>
+# [3.3.0](https://github.com/y2gu2xi/vue-element-admin/compare/v3.2.1...v3.3.0) (2017-05-18)
+
+
+### Features
+
+* add some thing ([305e759](https://github.com/y2gu2xi/vue-element-admin/commit/305e759))
+
+
+
 <a name="3.2.1"></a>
 ## [3.2.1](https://github.com/y2gu2xi/vue-element-admin/compare/v3.2.0...v3.2.1) (2017-05-18)
 
